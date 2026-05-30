@@ -30,8 +30,8 @@ In my repositories, you will find production-ready design patterns that move awa
 
 ## 📫 How to Reach Me
 Since I minimize smartphone/social media dependencies, the best and most reliable ways to contract or collaborate with me are:
-* **📧 Email:** [Your-Email-Here@example.com] *(Put your actual email here so clients can contact you directly without LinkedIn)*
-* **🔗 LinkedIn:** Connect with me on desktop via [Khellaf Benfifi](https://www.linkedin.com/in/YOUR-LINKEDIN-URL-HERE)
+* **📧 Email:** [amabenfifi@gmail.com] *(Put your actual email here so clients can contact you directly without LinkedIn)*
+* **🔗 LinkedIn:** Connect with me on desktop via [Khellaf Benfifi][(https://www.linkedin.com/in/kbenfifi/)
 
 ---
 
